@@ -12,7 +12,7 @@ To run the program,
       please visit to for Eclipse IDE -> https://eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers
       please visit to for Intellij IDE -> https://www.jetbrains.com/idea/download/?section=windows
  4. Run the file from GUI or CLI
- 5. If you write in node pad and run from CMD , please follow these
+ 5. If you write in node pad and run from CMD , please follow these ->
         compile and run Java with Command Prompt
 ----------------------------------------
 1. Make sure you have a Java JDK installed (we did this in lesson #1)

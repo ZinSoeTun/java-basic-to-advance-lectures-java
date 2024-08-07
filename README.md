@@ -15,7 +15,7 @@ To run the program,
  5. If you write in node pad and run from CMD , please follow these ->
         compile and run Java with Command Prompt
 ----------------------------------------
-1. Make sure you have a Java JDK installed (we did this in lesson #1)
+1. Make sure you have a Java JDK installed 
 2. (optional) use a text editor and save a file as .java
 3. Open Command Prompt (windows) or Terminal (Mac) on your computer
 4. set path=C:\Program Files\Java\jdk-14.0.1\bin (where JDK is located)
